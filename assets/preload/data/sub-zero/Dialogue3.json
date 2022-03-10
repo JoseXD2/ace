@@ -1,0 +1,32 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "AcePortraits",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Jesus, you're really good at this!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "BFPortraits",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Beepboopba!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "GFPortraits",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "[Surprised]"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "AcePortraits",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Okay, okay, we gotta do one more. This is too much fun!"
+		}
+	]
+}

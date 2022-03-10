@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "AcePortraits",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "I'm super amped up, man! I think--Oh..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "BFPortraits",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bap\"?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "AcePortraits",
+			"boxState": "normal",
+			"expression": "embarassed",
+			"text": "Haha, sorry about the storm. This always happens when I get too excited."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "GFPortraits",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "[Happy]"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "AcePortraits",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "Oh, looks like the bus is here."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "AcePortraits",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Thanks for hanging out with me you two, I'd love to do this again sometime!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "BFPortraits",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Beepbeep!"
+		}
+	]
+}
