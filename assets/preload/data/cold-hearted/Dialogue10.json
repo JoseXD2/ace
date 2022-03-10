@@ -1,0 +1,18 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "SakuPortraits",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "Wait-- That isn't what I meant by \"quickie\"."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "AcePortraits",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "I know. Goodnight!"
+		}
+	]
+}

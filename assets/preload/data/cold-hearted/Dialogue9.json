@@ -1,0 +1,32 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "SakuPortraits",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Hey, sweetie!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "AcePortraits",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "Oh hey, Saku. Surprised to see you here."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "SakuPortraits",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "I wanted to visit you! Are you up for a little quickie?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "AcePortraits",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Huh? Oh, sure!"
+		}
+	]
+}
