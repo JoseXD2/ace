@@ -1,0 +1,39 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "AcePortraits",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "How was that?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ZetroPortraits",
+			"boxState": "normal",
+			"expression": "blush",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "AcePortraits",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Retro?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ZetroPortraits",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "I love you."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "AcePortraits",
+			"boxState": "normal",
+			"expression": "blush",
+			"text": "I love you too..."
+		}
+	]
+}

@@ -1,0 +1,46 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "ZetroPortraits",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "I know you're nervous, but you got this!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "AcePortraits",
+			"boxState": "normal",
+			"expression": "embarassed",
+			"text": "I don't really sing as fast as you do though. My stuff is usually more chill."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ZetroPortraits",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "You'll do fine, my little blue snowball."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "AcePortraits",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "What did you just call me?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ZetroPortraits",
+			"boxState": "normal",
+			"expression": "blush",
+			"text": "N-Nothing."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ZetroPortraits",
+			"boxState": "normal",
+			"expression": "smug",
+			"text": "Look, just sing the song already!"
+		}
+	]
+}
