@@ -1,0 +1,31 @@
+{
+	"songs": [
+		[
+			"Frostbite",
+			"ace-frost",
+			[
+				157,
+				255,
+				242
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "ace",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Extra",
+	"weekName": "Extra Song",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "Week A1",
+	"startUnlocked": false
+}

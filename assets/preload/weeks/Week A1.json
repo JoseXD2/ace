@@ -1,0 +1,49 @@
+{
+	"songs": [
+		[
+			"Concrete-Jungle",
+			"ace",
+			[
+				157,
+				255,
+				242
+			]
+		],
+		[
+			"Noreaster",
+			"ace",
+			[
+				157,
+				255,
+				242
+			]
+		],
+		[
+			"Sub-Zero",
+			"ace",
+			[
+				157,
+				255,
+				242
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "ace",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"ace",
+		"bfc",
+		"gfc"
+	],
+	"storyName": "Ace",
+	"weekName": "Vs. Ace - Week 1.",
+	"freeplayColor": [
+		157,
+		255,
+		242
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

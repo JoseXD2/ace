@@ -1,0 +1,40 @@
+{
+	"storyName": "yeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "ace",
+	"weekBefore": "Week A1",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"North",
+			"ace",
+			[
+				146,
+				213,
+				253
+			]
+		],
+		[
+			"Cold-Hearted",
+			"sakuroma",
+			[
+				146,
+				213,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"ace",
+		"bf",
+		"gf"
+	],
+	"weekName": "Extra song's"
+}

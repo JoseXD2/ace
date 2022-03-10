@@ -1,0 +1,49 @@
+{
+	"songs": [
+		[
+			"Groundhog-day",
+			"ace",
+			[
+				146,
+				213,
+				253
+			]
+		],
+		[
+			"Cold-Front",
+			"ace",
+			[
+				146,
+				213,
+				253
+			]
+		],
+		[
+			"Cryogenic",
+			"ace",
+			[
+				146,
+				213,
+				253
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "ace",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"ace",
+		"bf",
+		"gf"
+	],
+	"storyName": "Ace 2",
+	"weekName": "Vs. Ace - Week 2",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
