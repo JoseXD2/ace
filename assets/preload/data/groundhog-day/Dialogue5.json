@@ -1,0 +1,39 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "BFPortraits",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Beep."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "AcePortraits",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Oh, hey, guys! I'm surprised to see you two back in NYC so soon."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "BFPortraits",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep boop bop."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "GFPortraits",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "[Happy]"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "AcePortraits",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "You want to battle again? Sure thing!"
+		}
+	]
+}
