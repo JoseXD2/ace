@@ -1,0 +1,79 @@
+{
+	"song": {
+		"speed": 2.7,
+		"stage": "Bridgecrime",
+		"player1": "bf-bridge",
+		"player2": "ace-bridge",
+		"player3": null,
+		"events": [
+			[
+				58181.8181818182,
+				[
+					[
+						"Add Camera Zoom",
+						"0.4",
+						""
+					]
+				]
+			],
+			[
+				64000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.4",
+						""
+					]
+				]
+			],
+			[
+				69818.1818181819,
+				[
+					[
+						"Add Camera Zoom",
+						"0.4",
+						""
+					]
+				]
+			],
+			[
+				104727.272727273,
+				[
+					[
+						"Add Camera Zoom",
+						"0.4",
+						""
+					]
+				]
+			],
+			[
+				116363.636363636,
+				[
+					[
+						"Add Camera Zoom",
+						"0.4",
+						""
+					]
+				]
+			],
+			[
+				128000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.4",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-cold",
+		"bpm": 165,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "North"
+	}
+}
