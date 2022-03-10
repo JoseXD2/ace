@@ -1,0 +1,32 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "AcePortraits",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Whoa, that was great! You harmonized so well with me towards the end there!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "BFPortraits",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Beep!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "AcePortraits",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "You up for another?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "BFPortraits",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Boopa!"
+		}
+	]
+}
