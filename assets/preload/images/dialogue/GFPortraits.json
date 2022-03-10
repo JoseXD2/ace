@@ -1,0 +1,37 @@
+{
+	"position": [
+		60,
+		0
+	],
+	"dialogue_pos": "right",
+	"scale": 1.25,
+	"image": "GFPortraits",
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"idle_name": "Neutral",
+			"loop_name": "Neutral"
+		},
+		{
+			"loop_name": "Confused",
+			"idle_offsets": [
+				31,
+				0
+			],
+			"idle_name": "Confused",
+			"anim": "confused",
+			"loop_offsets": [
+				31,
+				0
+			]
+		}
+	]
+}

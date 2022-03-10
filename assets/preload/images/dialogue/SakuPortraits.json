@@ -1,0 +1,141 @@
+{
+	"position": [
+		170,
+		-30
+	],
+	"dialogue_pos": "left",
+	"scale": 1.25,
+	"image": "SakuPortraits",
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "neutral",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Neutral",
+			"idle_name": "Neutral"
+		},
+		{
+			"loop_name": "Blush",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Blush",
+			"anim": "blush",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Happy",
+			"idle_offsets": [
+				-36,
+				0
+			],
+			"idle_name": "Happy",
+			"anim": "happy",
+			"loop_offsets": [
+				-36,
+				0
+			]
+		},
+		{
+			"loop_name": "Flirt",
+			"idle_offsets": [
+				-2,
+				12
+			],
+			"idle_name": "Flirt",
+			"anim": "flirt",
+			"loop_offsets": [
+				-3,
+				12
+			]
+		},
+		{
+			"loop_name": "Horny",
+			"idle_offsets": [
+				-10,
+				0
+			],
+			"idle_name": "Horny",
+			"anim": "horny",
+			"loop_offsets": [
+				-10,
+				0
+			]
+		},
+		{
+			"loop_name": "Thinking",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Thinking",
+			"anim": "thinking",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Menacing",
+			"idle_offsets": [
+				0,
+				20
+			],
+			"idle_name": "Menacing",
+			"anim": "menacing",
+			"loop_offsets": [
+				0,
+				20
+			]
+		},
+		{
+			"loop_name": "Angry",
+			"idle_offsets": [
+				-36,
+				0
+			],
+			"idle_name": "Angry",
+			"anim": "angry",
+			"loop_offsets": [
+				-36,
+				0
+			]
+		},
+		{
+			"loop_name": "Enraged",
+			"idle_offsets": [
+				-30,
+				34
+			],
+			"idle_name": "Enraged",
+			"anim": "enraged",
+			"loop_offsets": [
+				-30,
+				34
+			]
+		},
+		{
+			"loop_name": "Booba",
+			"idle_offsets": [
+				-90,
+				-300
+			],
+			"idle_name": "Booba",
+			"anim": "booba",
+			"loop_offsets": [
+				-90,
+				-300
+			]
+		}
+	]
+}
