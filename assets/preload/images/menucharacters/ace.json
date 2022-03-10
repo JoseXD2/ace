@@ -1,0 +1,10 @@
+{
+	"idle_anim": "Ace_Idle",
+	"image": "ace",
+	"position": [
+		147,
+		124
+	],
+	"scale": 0.45,
+	"confirm_anim": "M Dad Idle"
+}
